@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" font-family="DejaVu Sans, Helvetica, Arial, sans-serif">
+  <rect width="1600" height="560" fill="#171310"/>
+  <text x="800" y="80" text-anchor="middle" font-size="34" font-weight="700" fill="#F1EBDF">Built on four promises</text>
+  <g text-anchor="middle">
+    <g transform="translate(40,140)"><rect width="350" height="340" rx="20" fill="#211B16" stroke="#F3C76A" stroke-opacity=".5" stroke-width="2"/>
+      <circle cx="175" cy="80" r="34" fill="none" stroke="#F3C76A" stroke-width="4"/><rect x="170" y="108" width="10" height="34" fill="#F3C76A"/><rect x="170" y="130" width="24" height="8" fill="#F3C76A"/>
+      <text x="175" y="200" font-size="26" font-weight="700" fill="#F1EBDF">Your keys</text>
+      <text x="175" y="244" font-size="18" fill="#C9C0B2">Horizon never holds a</text><text x="175" y="270" font-size="18" fill="#C9C0B2">private key. Every event is</text><text x="175" y="296" font-size="18" fill="#C9C0B2">signed in your own signer.</text></g>
+    <g transform="translate(430,140)"><rect width="350" height="340" rx="20" fill="#211B16" stroke="#F3C76A" stroke-opacity=".5" stroke-width="2"/>
+      <g stroke="#F3C76A" stroke-width="3" fill="#171310"><line x1="140" y1="70" x2="210" y2="50"/><line x1="210" y1="50" x2="225" y2="105"/><line x1="140" y1="70" x2="130" y2="115"/><line x1="130" y1="115" x2="225" y2="105"/><circle cx="140" cy="70" r="10"/><circle cx="210" cy="50" r="10"/><circle cx="225" cy="105" r="10"/><circle cx="130" cy="115" r="10"/></g>
+      <text x="175" y="200" font-size="26" font-weight="700" fill="#F1EBDF">Your relays</text>
+      <text x="175" y="244" font-size="18" fill="#C9C0B2">Ideas, jobs and contracts</text><text x="175" y="270" font-size="18" fill="#C9C0B2">are plain Nostr events.</text><text x="175" y="296" font-size="18" fill="#C9C0B2">Any client can read them.</text></g>
+    <g transform="translate(820,140)"><rect width="350" height="340" rx="20" fill="#211B16" stroke="#F3C76A" stroke-opacity=".5" stroke-width="2"/>
+      <path d="M185 40 L150 92 H172 L160 128 L202 72 H178 Z" fill="#F3C76A"/>
+      <text x="175" y="200" font-size="26" font-weight="700" fill="#F1EBDF">No custody</text>
+      <text x="175" y="244" font-size="18" fill="#C9C0B2">Sats move wallet to wallet</text><text x="175" y="270" font-size="18" fill="#C9C0B2">over Lightning. Horizon</text><text x="175" y="296" font-size="18" fill="#C9C0B2">never touches funds.</text></g>
+    <g transform="translate(1210,140)"><rect width="350" height="340" rx="20" fill="#211B16" stroke="#F3C76A" stroke-opacity=".5" stroke-width="2"/>
+      <g fill="none" stroke="#F3C76A" stroke-width="4" stroke-linejoin="round"><rect x="140" y="50" width="70" height="80" rx="6"/><path d="M155 80 H195 M155 100 H185"/></g>
+      <text x="175" y="200" font-size="26" font-weight="700" fill="#F1EBDF">Open formats</text>
+      <text x="175" y="244" font-size="18" fill="#C9C0B2">NIP-23, NIP-99, NIP-22,</text><text x="175" y="270" font-size="18" fill="#C9C0B2">NIP-72. No lock-in, no</text><text x="175" y="296" font-size="18" fill="#C9C0B2">proprietary API.</text></g>
+  </g>
+</svg>
