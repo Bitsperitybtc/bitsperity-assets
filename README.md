@@ -7,6 +7,7 @@ One folder per app. Sources (SVG) live in `<app>/src/`.
 |---|---|
 | `horizon/` | banner, flow diagram, principles |
 | `horizon/landing/` | landing page before and after the Idea Engine rework |
+| `horizon/settings/` | Settings before (nine tabs) and after (five sections), signed out, as contact sheets |
 
 Raw URLs: `https://raw.githubusercontent.com/Bitsperitybtc/bitsperity-assets/main/<app>/<file>`
 
